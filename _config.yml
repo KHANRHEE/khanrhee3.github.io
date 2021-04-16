@@ -35,3 +35,5 @@ markdown: kramdown
 
 # (2021.04.16) Added by KH
 remote_theme : mmistakes/minimal-mistakes
+
+theme: jekyll-theme-minimal
